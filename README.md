@@ -3,9 +3,9 @@ Seleção de keywords para Shopee Ads com base em teste AB.
 
 ## Engajamento
 
-Impressões - visualisações
-Cliques - O anúncio é cobrado por clique
-Taxa de Cliques (CTR) - Percentual de visualizações que renderam cliques.
+Impressões: quantas vezes o anúncio foi mostrado na tela inicial do site ou como resultado de busca.
+Cliques: Quantos usuários clicaram no anúncio ao vê-lo. A campanha é cobrada por clique.
+Taxa de Cliques (CTR): Percentual de visualizações que renderam cliques.
 
 Se o anúncio é muito visto, ele está tendo bom alcance, muito provavelmente pelo investimento.
 Se a CTR é baixa, o que os chumbos vêem não os interessa.
