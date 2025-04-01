@@ -1,4 +1,4 @@
-# shopee_ads_keywords_analysis
+# Análise de Palavras-chave para Shopee Ads
 Seleção de keywords para Shopee Ads com base em teste AB.
 
 		# Engajamento
